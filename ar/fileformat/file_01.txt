@@ -1,0 +1,4 @@
+This is file_01.txt
+It consists of four
+lines. It's size
+is 71 bytes. 

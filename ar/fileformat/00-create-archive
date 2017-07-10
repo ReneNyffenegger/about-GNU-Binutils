@@ -1,0 +1,2 @@
+rm -f an-archive
+ar cr an-archive

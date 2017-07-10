@@ -1,0 +1,2 @@
+This is file_02.txt.
+Two lines, size: 48 bytes.
